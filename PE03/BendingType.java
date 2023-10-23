@@ -1,0 +1,9 @@
+// KALANI DISSANAYAKE
+// PE03
+enum BendingType {
+  AIR,
+  WATER,
+  FIRE,
+  EARTH,
+  NON_BENDER
+}
